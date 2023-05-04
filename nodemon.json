@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "safwan",
+    "DB_PASS": "qwerty123",
+    "DB_NAME": "mern",
+    "JWT_KEY": "my_secret_private_key_is_this"
+  }
+}
